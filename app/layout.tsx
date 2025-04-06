@@ -16,7 +16,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
-        <link rel="icon" type="image/png" href="/public/3.png" />
+        <link rel="icon" type="image/png" href="public/images/favlogo.png" />
       </head>
       <body>
         <ThemeProvider

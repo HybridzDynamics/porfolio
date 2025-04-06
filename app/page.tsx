@@ -69,7 +69,7 @@ export default function Home() {
           >
             <Link href="/" className="mr-6 flex items-center space-x-2">
               <span className="font-bold text-transparent bg-clip-text bg-gradient-to-r from-red-500 via-green-500 to-blue-500 animate-gradient">
-                Mohammad Arsh
+                 Hybridz Dynamics
               </span>
             </Link>
             <nav className="flex items-center gap-6 text-sm">
@@ -144,7 +144,7 @@ export default function Home() {
               <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl">
                 Hi, I'm{" "}
                 <span className="text-transparent bg-clip-text bg-gradient-to-r from-red-500 via-green-500 to-blue-500 animate-gradient">
-                 Mohammad Arsh
+                  Arsh
                 </span>
               </h1>
               <p className="mt-4 text-xl text-muted-foreground">
@@ -201,7 +201,7 @@ export default function Home() {
                 title="Aayat International"
                 description="A business website developed with HTML, CSS, and JavaScript. Currently under development for a business client."
                 tags={["HTML", "CSS", "JavaScript", "Business"]}
-                image="/aayat-international.png"
+                image="/ayi.png?height=200&width=400"
                 url="https://aayatinternational.netlify.app"
               />
             </AnimatedSection>
@@ -211,7 +211,7 @@ export default function Home() {
                 description="A game showcase website built with HTML, CSS, and JavaScript. Currently under development for my game projects."
                 tags={["HTML", "CSS", "JavaScript", "Gaming"]}
                 image="/sap.png"
-                url="https://sapgames.netlify.app/"
+                url="https://sapgames.netlify.app?height=200&width=400"
               />
             </AnimatedSection>
             <AnimatedSection delay={0.3}>
@@ -219,7 +219,7 @@ export default function Home() {
                 title="DT Horror"
                 description="A Roblox game website created with HTML, CSS, and JavaScript to showcase and promote a horror game on Roblox."
                 tags={["HTML", "CSS", "JavaScript", "Roblox", "Gaming"]}
-                image="/dthorrorr.png"
+                image="/dthorrorr.png?height=200&width=400"
                 url="https://dt-horror.vercel.app/"
               />
             </AnimatedSection>
@@ -228,7 +228,7 @@ export default function Home() {
                 title="Hybridz Dynamics"
                 description="My personal website built with TypeScript, Tailwind CSS, and Vite to showcase my portfolio and projects."
                 tags={["TypeScript", "Tailwind CSS", "Vite", "Portfolio"]}
-                image="/logo.png"
+                image="/logo.png?height=200&width=400"
                 url="https://hybridzdynamics.vercel.app/"
               />
             </AnimatedSection>
@@ -237,8 +237,17 @@ export default function Home() {
                 title="United Counties of Mike Island"
                 description="A roleplay community website developed with TypeScript, Tailwind CSS, and JavaScript to support an online community."
                 tags={["TypeScript", "Tailwind CSS", "JavaScript", "Community"]}
-                image="/placeholder.svg?height=200&width=400"
+                image="/asd.png?height=200&width=400"
                 url="https://uciom.vercel.app/"
+              />
+            </AnimatedSection>
+            <AnimatedSection delay={0.6}>
+              <WebsiteCard
+                title="Rhys Customs"
+                description="."
+                tags={["HTML", "CSS", "JavaScript"]}
+                image="/rhys.png?height=200&width=400"
+                url="https://rhyscustom.vercel.app/"
               />
             </AnimatedSection>
           </div>
@@ -258,24 +267,24 @@ export default function Home() {
                 description="Genre: Fantasy RPG | Platform: PC | Status: In Development 
                 Overview:
                 Mythralilos: Realms Unbound is an immersive, open-world RPG that challenges players with deep character progression, a fair economy, and real consequences. Designed for competitive and cooperative gameplay, it blends rich fantasy storytelling with unique game mechanics and a persistent global world."
-                tags={["Unreal Engine", "C++", "Security"]}
-                image="/placeholder.svg?height=200&width=400"
+                tags={["Unreal Engine", "C++"]}
+                image="/MRU.png?height=200&width=400"
               />
             </AnimatedSection>
             <AnimatedSection delay={0.2}>
               <ProjectCard
-                title="Security Bot for Discord"
+                title="Orlando Protection Bot"
                 description="Implemented using Python with features including alt detection, auto-moderation, and security logs to keep Discord servers safe."
                 tags={["Python", "Discord API", "Security", "Bot Development"]}
-                image="/placeholder.svg?height=200&width=400"
+                image="/opr.png?height=200&width=400"
               />
             </AnimatedSection>
             <AnimatedSection delay={0.3}>
               <ProjectCard
-                title="Security Bot for Discord"
+                title=" Hybridz Checkpoint Management"
                 description="Implemented using Python with features including alt detection, auto-moderation, and security logs to keep Discord servers safe."
-                tags={["Python", "Discord API", "Security", "Bot Development"]}
-                image="/placeholder.svg?height=200&width=400"
+                tags={["Python", "Discord API", "Security","Management", "Bot Development"]}
+                image="/logo.png?height=100&width=200"
               />
             </AnimatedSection>
           </div>
