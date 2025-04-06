@@ -69,7 +69,7 @@ export default function Home() {
           >
             <Link href="/" className="mr-6 flex items-center space-x-2">
               <span className="font-bold text-transparent bg-clip-text bg-gradient-to-r from-red-500 via-green-500 to-blue-500 animate-gradient">
-                Hybridz Dynamics
+                Mohammad Arsh
               </span>
             </Link>
             <nav className="flex items-center gap-6 text-sm">
@@ -144,7 +144,7 @@ export default function Home() {
               <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl">
                 Hi, I'm{" "}
                 <span className="text-transparent bg-clip-text bg-gradient-to-r from-red-500 via-green-500 to-blue-500 animate-gradient">
-                  Hybridz Dynamics
+                 Mohammad Arsh
                 </span>
               </h1>
               <p className="mt-4 text-xl text-muted-foreground">
@@ -173,7 +173,7 @@ export default function Home() {
                   <div className="absolute inset-0 bg-gradient-to-r from-red-500 via-green-500 to-blue-500 animate-spin-slow opacity-70"></div>
                   <div className="absolute inset-2 overflow-hidden rounded-full bg-background flex items-center justify-center">
                     <img
-                      src="/logo.png"
+                      src="/3.png"
                       alt="HD"
                       className="object-cover"
                       className="object-cover w-full h-full"
@@ -201,7 +201,7 @@ export default function Home() {
                 title="Aayat International"
                 description="A business website developed with HTML, CSS, and JavaScript. Currently under development for a business client."
                 tags={["HTML", "CSS", "JavaScript", "Business"]}
-                image="/images/aayat-international.png"
+                image="/aayat-international.png"
                 url="https://aayatinternational.netlify.app"
               />
             </AnimatedSection>
@@ -210,7 +210,7 @@ export default function Home() {
                 title="SAP Games"
                 description="A game showcase website built with HTML, CSS, and JavaScript. Currently under development for my game projects."
                 tags={["HTML", "CSS", "JavaScript", "Gaming"]}
-                image="/placeholder.svg?height=200&width=400"
+                image="/sap.png"
                 url="https://sapgames.netlify.app/"
               />
             </AnimatedSection>
@@ -219,7 +219,7 @@ export default function Home() {
                 title="DT Horror"
                 description="A Roblox game website created with HTML, CSS, and JavaScript to showcase and promote a horror game on Roblox."
                 tags={["HTML", "CSS", "JavaScript", "Roblox", "Gaming"]}
-                image="/placeholder.svg?height=200&width=400"
+                image="/dthorrorr.png"
                 url="https://dt-horror.vercel.app/"
               />
             </AnimatedSection>
@@ -228,7 +228,7 @@ export default function Home() {
                 title="Hybridz Dynamics"
                 description="My personal website built with TypeScript, Tailwind CSS, and Vite to showcase my portfolio and projects."
                 tags={["TypeScript", "Tailwind CSS", "Vite", "Portfolio"]}
-                image="/placeholder.svg?height=200&width=400"
+                image="/logo.png"
                 url="https://hybridzdynamics.vercel.app/"
               />
             </AnimatedSection>
