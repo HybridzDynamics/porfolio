@@ -4,7 +4,7 @@ import { ThemeProvider } from "@/components/theme-provider"
 import "./globals.css"
 
 export const metadata = {
-  title: "Hybridz Dynamics - Portfolio",
+  title: "Mohammad Arsh - Portfolio",
   description: "Game developer, graphic designer, and programmer",
 }
 
@@ -16,7 +16,7 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
-        <link rel="icon" type="image/png" href="/images/logo.png" />
+        <link rel="icon" type="image/png" href="/public/3.png" />
       </head>
       <body>
         <ThemeProvider
