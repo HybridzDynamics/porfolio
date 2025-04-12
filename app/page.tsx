@@ -173,7 +173,7 @@ export default function Home() {
                   <div className="absolute inset-0 bg-gradient-to-r from-red-500 via-green-500 to-blue-500 animate-spin-slow opacity-70"></div>
                   <div className="absolute inset-2 overflow-hidden rounded-full bg-background flex items-center justify-center">
                     <img
-                      src="/3.png"
+                      src="/arsh.jpg"
                       alt="HD"
                       className="object-cover"
                       className="object-cover w-full h-full"
