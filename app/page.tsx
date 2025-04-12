@@ -247,7 +247,7 @@ export default function Home() {
                 description="."
                 tags={["HTML", "CSS", "JavaScript"]}
                 image="/rhys.png?height=200&width=400"
-                url="https://rhyscustom.vercel.app/"
+               // url="https://rhyscustom.vercel.app/"
               />
             </AnimatedSection>
           </div>
