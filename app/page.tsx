@@ -241,15 +241,6 @@ export default function Home() {
                 url="https://uciom.vercel.app/"
               />
             </AnimatedSection>
-            <AnimatedSection delay={0.6}>
-              <WebsiteCard
-                title="Rhys Customs"
-                description="."
-                tags={["HTML", "CSS", "JavaScript"]}
-                image="/rhys.png?height=200&width=400"
-                url="https://rhyscustom.vercel.app/"
-              />
-            </AnimatedSection>
           </div>
         </section>
 
