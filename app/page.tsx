@@ -69,7 +69,11 @@ export default function Home() {
           >
             <Link href="/" className="mr-6 flex items-center space-x-2">
               <span className="font-bold text-transparent bg-clip-text bg-gradient-to-r from-red-500 via-green-500 to-blue-500 animate-gradient">
+<<<<<<< HEAD
                  Hybridz Dynamics
+=======
+                Mohammad Arsh
+>>>>>>> 0018df45cecd415b836eb554d80ca6651701fa92
               </span>
             </Link>
             <nav className="flex items-center gap-6 text-sm">
@@ -144,7 +148,11 @@ export default function Home() {
               <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl">
                 Hi, I'm{" "}
                 <span className="text-transparent bg-clip-text bg-gradient-to-r from-red-500 via-green-500 to-blue-500 animate-gradient">
+<<<<<<< HEAD
                   Arsh
+=======
+                 Mohammad Arsh
+>>>>>>> 0018df45cecd415b836eb554d80ca6651701fa92
                 </span>
               </h1>
               <p className="mt-4 text-xl text-muted-foreground">
@@ -201,7 +209,11 @@ export default function Home() {
                 title="Aayat International"
                 description="A business website developed with HTML, CSS, and JavaScript. Currently under development for a business client."
                 tags={["HTML", "CSS", "JavaScript", "Business"]}
+<<<<<<< HEAD
                 image="/ayi.png?height=200&width=400"
+=======
+                image="/aayat-international.png"
+>>>>>>> 0018df45cecd415b836eb554d80ca6651701fa92
                 url="https://aayatinternational.netlify.app"
               />
             </AnimatedSection>
@@ -211,7 +223,11 @@ export default function Home() {
                 description="A game showcase website built with HTML, CSS, and JavaScript. Currently under development for my game projects."
                 tags={["HTML", "CSS", "JavaScript", "Gaming"]}
                 image="/sap.png"
+<<<<<<< HEAD
                 url="https://sapgames.netlify.app?height=200&width=400"
+=======
+                url="https://sapgames.netlify.app/"
+>>>>>>> 0018df45cecd415b836eb554d80ca6651701fa92
               />
             </AnimatedSection>
             <AnimatedSection delay={0.3}>
@@ -219,7 +235,11 @@ export default function Home() {
                 title="DT Horror"
                 description="A Roblox game website created with HTML, CSS, and JavaScript to showcase and promote a horror game on Roblox."
                 tags={["HTML", "CSS", "JavaScript", "Roblox", "Gaming"]}
+<<<<<<< HEAD
                 image="/dthorrorr.png?height=200&width=400"
+=======
+                image="/dthorrorr.png"
+>>>>>>> 0018df45cecd415b836eb554d80ca6651701fa92
                 url="https://dt-horror.vercel.app/"
               />
             </AnimatedSection>
@@ -228,7 +248,11 @@ export default function Home() {
                 title="Hybridz Dynamics"
                 description="My personal website built with TypeScript, Tailwind CSS, and Vite to showcase my portfolio and projects."
                 tags={["TypeScript", "Tailwind CSS", "Vite", "Portfolio"]}
+<<<<<<< HEAD
                 image="/logo.png?height=200&width=400"
+=======
+                image="/logo.png"
+>>>>>>> 0018df45cecd415b836eb554d80ca6651701fa92
                 url="https://hybridzdynamics.vercel.app/"
               />
             </AnimatedSection>
